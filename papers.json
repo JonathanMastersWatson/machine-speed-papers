@@ -1,0 +1,93 @@
+{
+  "series": "The Machine Speed Papers",
+  "author": "Jonathan M. Watson",
+  "repository": "https://github.com/JonathanMastersWatson/machine-speed-papers",
+  "license": "CC-BY-4.0",
+  "papers": [
+    {
+      "number": 1,
+      "title": "Execution-Boundary Governance",
+      "subtitle": "A Runtime Control Model for Autonomous Systems",
+      "version": "2.1",
+      "date": "2026-07",
+      "status": "published",
+      "path": "papers/01-execution-boundary-governance",
+      "pdf": "papers/01-execution-boundary-governance/paper.pdf",
+      "markdown": "papers/01-execution-boundary-governance/paper.md",
+      "sha256_pdf": "0aece2b67cba5fc6877a9cfcc90e315cdb422ec53c42d63098a6df462af552f8",
+      "abstract": "Current AI governance frameworks focus on policy, oversight, documentation, transparency, and post-execution accountability. As autonomous systems gain the ability to execute transactions, invoke tools, modify records, move funds, and trigger physical actions, governance must operate within finite latency budgets. This paper proposes Execution-Boundary Governance (EBG), a framework that distinguishes interpretive governance from executable governance and introduces the Executable Governance Kernel (EGK) \u2014 a minimal, deterministic, tamper-resistant mechanism operating at the final control point"
+    },
+    {
+      "number": 2,
+      "title": "Constitutional Compression",
+      "subtitle": "The Emergence of Minimal Governance at Machine Speed",
+      "version": "1.1",
+      "date": "2026-07",
+      "status": "published",
+      "path": "papers/02-constitutional-compression",
+      "pdf": "papers/02-constitutional-compression/paper.pdf",
+      "markdown": "papers/02-constitutional-compression/paper.md",
+      "sha256_pdf": "20d739e4738c0bc54326af8d42436438f3d44c2b7017b6b5258f3b17aacf12d0",
+      "abstract": "This paper has no standalone abstract section \u2014 it opens directly with Chapter 1. The opening paragraphs are quoted below as the entry point."
+    },
+    {
+      "number": 3,
+      "title": "Evidence Systems",
+      "subtitle": "Why Independent Witnesses Emerge at Machine Speed",
+      "version": "1.1",
+      "date": "2026-07",
+      "status": "published",
+      "path": "papers/03-evidence-systems",
+      "pdf": "papers/03-evidence-systems/paper.pdf",
+      "markdown": "papers/03-evidence-systems/paper.md",
+      "sha256_pdf": "b9dcb1c7b687d8236952ed8891cd64609f6f11d31deb3dfd18f311fbef86047b",
+      "abstract": "This paper has no standalone abstract section \u2014 it opens directly with Chapter 1. The opening paragraphs are quoted below as the entry point."
+    },
+    {
+      "number": 4,
+      "title": "Upstream",
+      "subtitle": "Where Human-in-the-Loop Goes at Machine Speed",
+      "version": "1.1",
+      "date": "2026-08",
+      "status": "published",
+      "path": "papers/04-upstream",
+      "pdf": "papers/04-upstream/paper.pdf",
+      "markdown": "papers/04-upstream/paper.md",
+      "sha256_pdf": "10722248f2d79a7f03fb86342c76d8647aea05ccf646a7d9d453f8930162d86d",
+      "abstract": "Software now takes consequential action on its own. It places orders, moves money, approves claims, and grants access, and it does all of it faster than anyone can review. Governance that cannot be present at the moment of action has to be settled beforehand, and written so a machine can apply it without asking. This paper examines what happens when organisations try to do that at scale. The usual conclusion is that the human leaves the loop. That conclusion is wrong. The human does not leave \u2014 the loop moves. Judgment that once sat at the moment of action, exercised case by case and mostly un"
+    },
+    {
+      "number": 5,
+      "title": "The Execution Surface",
+      "subtitle": "Why Distributed Compute Cannot Be Shared",
+      "version": "1.1",
+      "date": "2026-10",
+      "status": "published",
+      "path": "papers/05-the-execution-surface",
+      "pdf": "papers/05-the-execution-surface/paper.pdf",
+      "markdown": "papers/05-the-execution-surface/paper.md",
+      "sha256_pdf": "2702d1bbada83cd79898f8481183226aae233a5a1db0ad6c09020233c2656cec",
+      "abstract": "Compute is moving outward. That argument is over, and this paper does not make it. It starts from the condition itself and asks what kind of thing is being built. The answer is a planetary execution surface: a continuous layer of local compute running from gigawatt campuses down to milliwatt endpoints, thickest wherever consequences occur. It is being assembled now, segment by segment, by thousands of unrelated parties \u2014 municipalities meeting statutory duties, retailers avoiding bandwidth costs, manufacturers preventing downtime, remote operators with no alternative, and professionals who can"
+    },
+    {
+      "number": 6,
+      "title": "Machine-Speed Economics",
+      "subtitle": "A technical blueprint of the machine-speed economy",
+      "version": "draft v0.1",
+      "date": "2026-10",
+      "status": "draft",
+      "path": "papers/06-machine-speed-economics",
+      "markdown": "papers/06-machine-speed-economics/manuscript/paper-06-draft.md"
+    },
+    {
+      "number": 7,
+      "title": "The Metered Mind",
+      "subtitle": "Micropayments and licensing economics of machine-speed judgment",
+      "version": "outline brief",
+      "date": "2026-10",
+      "status": "brief",
+      "path": "papers/07-the-metered-mind",
+      "markdown": "papers/07-the-metered-mind/brief/brief.md"
+    }
+  ]
+}

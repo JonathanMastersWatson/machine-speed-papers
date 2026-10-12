@@ -1,0 +1,33 @@
+# This CITATION.cff file was generated for The Machine Speed Papers.
+# Learn more: https://citation-file-format.github.io/
+cff-version: 1.2.0
+title: The Machine Speed Papers
+message: "If you use or build on this work, please cite it as below."
+type: dataset
+authors:
+  - family-names: Watson
+    given-names: Jonathan M.
+    email: jonmwatson@gmail.com
+    affiliation: Independent Researcher
+repository-code: "https://github.com/JonathanMastersWatson/machine-speed-papers"
+url: "https://github.com/JonathanMastersWatson/machine-speed-papers"
+license: CC-BY-4.0
+keywords:
+  - AI governance
+  - autonomous systems
+  - machine-speed execution
+  - execution boundary
+  - evidence systems
+  - machine economy
+  - micropayments
+version: "2026-10"
+date-released: 2026-10-12
+preferred-citation:
+  type: report
+  authors:
+    - family-names: Watson
+      given-names: Jonathan M.
+      email: jonmwatson@gmail.com
+  title: "The Machine Speed Papers"
+  year: 2026
+  url: "https://github.com/JonathanMastersWatson/machine-speed-papers"
