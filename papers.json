@@ -109,7 +109,7 @@
       "sha256_pdf": "94a9d3d937cc0a9d28ccabb15592d722d3de9c7f74cdf422214be383e99b57bb",
       "abstract": "Organisations with high AI adoption are producing roughly twice the code of low adopters. They are completing about 27% more work. Hyundai cut digital-twin construction from four weeks to ten days and still cannot justify rolling it out globally, because integration across mismatched robot and PLC vendors doubles the engineering it saved. Insilico reaches a drug candidate in nine months against a traditional baseline near four and a half years, and then waits on clinical trials exactly as long as everyone else. Four industries, four instruments, one measurement. Generation is accelerating fast",
       "executive_summary": "papers/paper-zero-the-industrialization-of-cognition/executive-summary/Executive-Summary.md",
-      "executive_summary_status": "draft — for author review"
+      "executive_summary_status": "approved 2026-10-13 (covers V0.1 placeholder; Paper Zero is a work in progress)"
     }
   ]
 }

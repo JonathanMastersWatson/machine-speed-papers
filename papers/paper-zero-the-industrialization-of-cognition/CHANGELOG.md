@@ -16,3 +16,7 @@
 ## 2026-10-13 (folder rename)
 
 - Folder renamed from `papers/00-the-industrialization-of-cognition/` to `papers/paper-zero-the-industrialization-of-cognition/` so it sorts after Paper 6. Paper Zero is read last, then first — the folder order now matches the reading loop. No content changes; the paper is still No. 0.
+
+## 2026-10-13 (executive summary approved)
+
+- Executive summary revised and approved: reframed around the paper's core claim — a world completely transformed, not the same firms/jobs/markets running faster — with the transformation placed alongside contract law for the wool merchants, Magna Carta, and the double-entry ledger. Covers the V0.1 placeholder; Paper Zero is a work in progress and the summary will be revised with the full manuscript.

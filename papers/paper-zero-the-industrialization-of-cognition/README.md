@@ -28,7 +28,7 @@ The V0.1 PDF says "Papers 6 and 7 — Machine-Speed Economics and The Metered Mi
 - `paper.pdf` — the canonical paper (this is the version of record)
 - `paper.md` — machine-readable text derived from the PDF (the PDF governs in any discrepancy)
 - `abstract.md` — abstract
-- `executive-summary/Executive-Summary.md` — draft executive summary (for author review)
+- `executive-summary/Executive-Summary.md` — executive summary (approved 2026-10-13; covers the V0.1 placeholder)
 - `brief/brief.md` — working outline brief (former Paper 7 brief; working material, not manuscript text)
 - `brief/Executive-Summary-brief-draft.md` — provisional summary from that brief (working material)
 
