@@ -16,6 +16,7 @@ Executive-summary placeholder (12 pages). The full paper is in progress; this fi
 - `paper.pdf` — the canonical paper (this is the version of record)
 - `paper.md` — machine-readable text derived from the PDF (the PDF governs in any discrepancy)
 - `abstract.md` — abstract
+- `executive-summary/Executive-Summary.md` — draft executive summary (for author review)
 
 ## License
 

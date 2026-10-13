@@ -10,6 +10,7 @@
 - `paper.pdf` — the canonical paper
 - `paper.md` — machine-readable text derived from the PDF (the PDF governs in any discrepancy)
 - `abstract.md` — abstract / entry point
+- `executive-summary/Executive-Summary.md` — draft executive summary (for author review)
 
 ## License
 

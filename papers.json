@@ -15,7 +15,9 @@
       "pdf": "papers/00-the-industrialization-of-cognition/paper.pdf",
       "markdown": "papers/00-the-industrialization-of-cognition/paper.md",
       "sha256_pdf": "94a9d3d937cc0a9d28ccabb15592d722d3de9c7f74cdf422214be383e99b57bb",
-      "abstract": "Organisations with high AI adoption are producing roughly twice the code of low adopters. They are completing about 27% more work. Hyundai cut digital-twin construction from four weeks to ten days and still cannot justify rolling it out globally, because integration across mismatched robot and PLC vendors doubles the engineering it saved. Insilico reaches a drug candidate in nine months against a traditional baseline near four and a half years, and then waits on clinical trials exactly as long as everyone else. Four industries, four instruments, one measurement. Generation is accelerating fast"
+      "abstract": "Organisations with high AI adoption are producing roughly twice the code of low adopters. They are completing about 27% more work. Hyundai cut digital-twin construction from four weeks to ten days and still cannot justify rolling it out globally, because integration across mismatched robot and PLC vendors doubles the engineering it saved. Insilico reaches a drug candidate in nine months against a traditional baseline near four and a half years, and then waits on clinical trials exactly as long as everyone else. Four industries, four instruments, one measurement. Generation is accelerating fast",
+      "executive_summary": "papers/00-the-industrialization-of-cognition/executive-summary/Executive-Summary.md",
+      "executive_summary_status": "draft — for author review"
     },
     {
       "number": 1,
@@ -28,7 +30,10 @@
       "pdf": "papers/01-execution-boundary-governance/paper.pdf",
       "markdown": "papers/01-execution-boundary-governance/paper.md",
       "sha256_pdf": "0aece2b67cba5fc6877a9cfcc90e315cdb422ec53c42d63098a6df462af552f8",
-      "abstract": "Current AI governance frameworks focus on policy, oversight, documentation, transparency, and post-execution accountability. As autonomous systems gain the ability to execute transactions, invoke tools, modify records, move funds, and trigger physical actions, governance must operate within finite latency budgets. This paper proposes Execution-Boundary Governance (EBG), a framework that distinguishes interpretive governance from executable governance and introduces the Executable Governance Kernel (EGK) \u2014 a minimal, deterministic, tamper-resistant mechanism operating at the final control point"
+      "abstract": "Current AI governance frameworks focus on policy, oversight, documentation, transparency, and post-execution accountability. As autonomous systems gain the ability to execute transactions, invoke tools, modify records, move funds, and trigger physical actions, governance must operate within finite latency budgets. This paper proposes Execution-Boundary Governance (EBG), a framework that distinguishes interpretive governance from executable governance and introduces the Executable Governance Kernel (EGK) — a minimal, deterministic, tamper-resistant mechanism operating at the final control point",
+      "executive_summary": "papers/01-execution-boundary-governance/executive-summary/Executive-Summary.md",
+      "executive_summary_draft": "papers/01-execution-boundary-governance/executive-summary/Executive-Summary-draft.md",
+      "executive_summary_status": "draft — for author review"
     },
     {
       "number": 2,
@@ -41,7 +46,10 @@
       "pdf": "papers/02-constitutional-compression/paper.pdf",
       "markdown": "papers/02-constitutional-compression/paper.md",
       "sha256_pdf": "20d739e4738c0bc54326af8d42436438f3d44c2b7017b6b5258f3b17aacf12d0",
-      "abstract": "This paper has no standalone abstract section \u2014 it opens directly with Chapter 1. The opening paragraphs are quoted below as the entry point."
+      "abstract": "This paper has no standalone abstract section — it opens directly with Chapter 1. The opening paragraphs are quoted below as the entry point.",
+      "executive_summary": "papers/02-constitutional-compression/executive-summary/Executive-Summary.md",
+      "executive_summary_draft": "papers/02-constitutional-compression/executive-summary/Executive-Summary-draft.md",
+      "executive_summary_status": "draft — for author review"
     },
     {
       "number": 3,
@@ -54,7 +62,9 @@
       "pdf": "papers/03-evidence-systems/paper.pdf",
       "markdown": "papers/03-evidence-systems/paper.md",
       "sha256_pdf": "b9dcb1c7b687d8236952ed8891cd64609f6f11d31deb3dfd18f311fbef86047b",
-      "abstract": "This paper has no standalone abstract section \u2014 it opens directly with Chapter 1. The opening paragraphs are quoted below as the entry point."
+      "abstract": "This paper has no standalone abstract section — it opens directly with Chapter 1. The opening paragraphs are quoted below as the entry point.",
+      "executive_summary": "papers/03-evidence-systems/executive-summary/Executive-Summary.md",
+      "executive_summary_status": "draft — for author review"
     },
     {
       "number": 4,
@@ -67,7 +77,9 @@
       "pdf": "papers/04-upstream/paper.pdf",
       "markdown": "papers/04-upstream/paper.md",
       "sha256_pdf": "10722248f2d79a7f03fb86342c76d8647aea05ccf646a7d9d453f8930162d86d",
-      "abstract": "Software now takes consequential action on its own. It places orders, moves money, approves claims, and grants access, and it does all of it faster than anyone can review. Governance that cannot be present at the moment of action has to be settled beforehand, and written so a machine can apply it without asking. This paper examines what happens when organisations try to do that at scale. The usual conclusion is that the human leaves the loop. That conclusion is wrong. The human does not leave \u2014 the loop moves. Judgment that once sat at the moment of action, exercised case by case and mostly un"
+      "abstract": "Software now takes consequential action on its own. It places orders, moves money, approves claims, and grants access, and it does all of it faster than anyone can review. Governance that cannot be present at the moment of action has to be settled beforehand, and written so a machine can apply it without asking. This paper examines what happens when organisations try to do that at scale. The usual conclusion is that the human leaves the loop. That conclusion is wrong. The human does not leave — the loop moves. Judgment that once sat at the moment of action, exercised case by case and mostly un",
+      "executive_summary": "papers/04-upstream/executive-summary/Executive-Summary.md",
+      "executive_summary_status": "draft — for author review"
     },
     {
       "number": 5,
@@ -80,7 +92,9 @@
       "pdf": "papers/05-the-execution-surface/paper.pdf",
       "markdown": "papers/05-the-execution-surface/paper.md",
       "sha256_pdf": "2702d1bbada83cd79898f8481183226aae233a5a1db0ad6c09020233c2656cec",
-      "abstract": "Compute is moving outward. That argument is over, and this paper does not make it. It starts from the condition itself and asks what kind of thing is being built. The answer is a planetary execution surface: a continuous layer of local compute running from gigawatt campuses down to milliwatt endpoints, thickest wherever consequences occur. It is being assembled now, segment by segment, by thousands of unrelated parties \u2014 municipalities meeting statutory duties, retailers avoiding bandwidth costs, manufacturers preventing downtime, remote operators with no alternative, and professionals who can"
+      "abstract": "Compute is moving outward. That argument is over, and this paper does not make it. It starts from the condition itself and asks what kind of thing is being built. The answer is a planetary execution surface: a continuous layer of local compute running from gigawatt campuses down to milliwatt endpoints, thickest wherever consequences occur. It is being assembled now, segment by segment, by thousands of unrelated parties — municipalities meeting statutory duties, retailers avoiding bandwidth costs, manufacturers preventing downtime, remote operators with no alternative, and professionals who can",
+      "executive_summary": "papers/05-the-execution-surface/executive-summary/Executive-Summary.md",
+      "executive_summary_status": "draft — for author review"
     },
     {
       "number": 6,
@@ -93,7 +107,9 @@
       "markdown": "papers/06-machine-speed-economics/paper.md",
       "pdf": "papers/06-machine-speed-economics/paper.pdf",
       "sha256_pdf": "6cd2596953cf67f71eeac351856cadfff9c12b05a42afe0eb843312bc9412e94",
-      "abstract": "An economy is buyers meeting sellers, prices moving, and obligations settling \u2014 with enough reliability that strangers will trade. This paper describes that economy with the humans removed from the middle of each transaction, and argues that what makes it possible is not faster money but independently witnessed evidence. The paper makes six claims. First, the machine-speed economy requires nothing that does not already exist. Agents carry a purse \u2014 bounded spending authority committable at the point of action \u2014 and a mandate \u2014 preconstrained limits on what may be done, for whom, at what cost. "
+      "abstract": "An economy is buyers meeting sellers, prices moving, and obligations settling — with enough reliability that strangers will trade. This paper describes that economy with the humans removed from the middle of each transaction, and argues that what makes it possible is not faster money but independently witnessed evidence. The paper makes six claims. First, the machine-speed economy requires nothing that does not already exist. Agents carry a purse — bounded spending authority committable at the point of action — and a mandate — preconstrained limits on what may be done, for whom, at what cost. ",
+      "executive_summary": "papers/06-machine-speed-economics/executive-summary/Executive-Summary.md",
+      "executive_summary_status": "draft — for author review"
     },
     {
       "number": 7,
@@ -103,7 +119,9 @@
       "date": "2026-10",
       "status": "brief",
       "path": "papers/07-the-metered-mind",
-      "markdown": "papers/07-the-metered-mind/brief/brief.md"
+      "markdown": "papers/07-the-metered-mind/brief/brief.md",
+      "executive_summary": "papers/07-the-metered-mind/executive-summary/Executive-Summary.md",
+      "executive_summary_status": "draft — for author review"
     }
   ]
 }

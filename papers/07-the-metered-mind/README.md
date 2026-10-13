@@ -11,6 +11,7 @@ Outline brief only (October 2026). No manuscript yet. The brief will be replaced
 ## Files
 
 - `brief/brief.md` — working outline brief
+- `executive-summary/Executive-Summary.md` — draft executive summary (provisional; from the brief, for author review)
 
 ## License
 

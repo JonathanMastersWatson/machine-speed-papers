@@ -29,7 +29,7 @@ The arc: governance doesn't disappear at machine speed — it redistributes. Int
 
 ```
 papers/
-  00-the-industrialization-of-cognition/   # executive-summary placeholder
+  00-the-industrialization-of-cognition/   # placeholder (full paper in progress)
   01-execution-boundary-governance/
   02-constitutional-compression/
   03-evidence-systems/

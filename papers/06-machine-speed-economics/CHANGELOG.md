@@ -8,3 +8,7 @@
 ## 0.1 (2026-10)
 
 - First working draft (manuscript text only). Superseded by 0.2.
+
+## 2026-10-12
+
+- Draft executive summary added under `executive-summary/` (prepared from the paper text for author review; not yet approved).

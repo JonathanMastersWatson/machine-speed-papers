@@ -16,6 +16,7 @@ Draft (V0.2, 53 pages). Still 0.x — the manuscript is advancing but not final.
 - `paper.pdf` — the canonical paper (this is the version of record)
 - `paper.md` — machine-readable text derived from the PDF (the PDF governs in any discrepancy)
 - `abstract.md` — abstract
+- `executive-summary/Executive-Summary.md` — draft executive summary (for author review)
 
 ## License
 
