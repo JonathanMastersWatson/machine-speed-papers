@@ -14,20 +14,22 @@ The central question:
 
 | No. | Paper | Status |
 |-----|-------|--------|
+| 0 | [The Industrialization of Cognition](papers/00-the-industrialization-of-cognition/) — *Transformed* (V0.1) | Executive-summary placeholder |
 | 1 | [Execution-Boundary Governance](papers/01-execution-boundary-governance/) — *A Runtime Control Model for Autonomous Systems* (V2.1) | Published |
 | 2 | [Constitutional Compression](papers/02-constitutional-compression/) — *The Emergence of Minimal Governance at Machine Speed* (V1.1) | Published |
 | 3 | [Evidence Systems](papers/03-evidence-systems/) — *Why Independent Witnesses Emerge at Machine Speed* (V1.1) | Published |
 | 4 | [Upstream](papers/04-upstream/) — *Where Human-in-the-Loop Goes at Machine Speed* (V1.1) | Published |
 | 5 | [The Execution Surface](papers/05-the-execution-surface/) — *Why Distributed Compute Cannot Be Shared* (V1.1) | Published |
-| 6 | [Machine-Speed Economics](papers/06-machine-speed-economics/) — *A technical blueprint of the machine-speed economy* | Draft in progress |
+| 6 | [Machine-Speed Economics](papers/06-machine-speed-economics/) — *How Evidence Becomes the Price Signal* (V0.2) | Draft |
 | 7 | [The Metered Mind](papers/07-the-metered-mind/) — *Micropayments and licensing economics of machine-speed judgment* | Outline brief |
 
-The arc: governance doesn't disappear at machine speed — it redistributes. Interpretation moves upstream, enforcement compresses to a minimal kernel at the execution boundary, and accountability moves downstream into independently witnessed evidence. Papers 1–5 establish the components; Paper 6 assembles the running machine; Paper 7 follows the money to the individual.
+The arc: governance doesn't disappear at machine speed — it redistributes. Interpretation moves upstream, enforcement compresses to a minimal kernel at the execution boundary, and accountability moves downstream into independently witnessed evidence. Paper Zero opens the frame; Papers 1–5 establish the components; Paper 6 assembles the running machine; Paper 7 follows the money to the individual.
 
 ## Repository layout
 
 ```
 papers/
+  00-the-industrialization-of-cognition/   # executive-summary placeholder
   01-execution-boundary-governance/
   02-constitutional-compression/
   03-evidence-systems/

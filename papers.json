@@ -5,6 +5,19 @@
   "license": "CC-BY-4.0",
   "papers": [
     {
+      "number": 0,
+      "title": "The Industrialization of Cognition",
+      "subtitle": "Transformed",
+      "version": "0.1",
+      "date": "2026-10",
+      "status": "placeholder",
+      "path": "papers/00-the-industrialization-of-cognition",
+      "pdf": "papers/00-the-industrialization-of-cognition/paper.pdf",
+      "markdown": "papers/00-the-industrialization-of-cognition/paper.md",
+      "sha256_pdf": "94a9d3d937cc0a9d28ccabb15592d722d3de9c7f74cdf422214be383e99b57bb",
+      "abstract": "Organisations with high AI adoption are producing roughly twice the code of low adopters. They are completing about 27% more work. Hyundai cut digital-twin construction from four weeks to ten days and still cannot justify rolling it out globally, because integration across mismatched robot and PLC vendors doubles the engineering it saved. Insilico reaches a drug candidate in nine months against a traditional baseline near four and a half years, and then waits on clinical trials exactly as long as everyone else. Four industries, four instruments, one measurement. Generation is accelerating fast"
+    },
+    {
       "number": 1,
       "title": "Execution-Boundary Governance",
       "subtitle": "A Runtime Control Model for Autonomous Systems",
@@ -72,12 +85,15 @@
     {
       "number": 6,
       "title": "Machine-Speed Economics",
-      "subtitle": "A technical blueprint of the machine-speed economy",
-      "version": "draft v0.1",
+      "subtitle": "How Evidence Becomes the Price Signal",
+      "version": "0.2",
       "date": "2026-10",
       "status": "draft",
       "path": "papers/06-machine-speed-economics",
-      "markdown": "papers/06-machine-speed-economics/manuscript/paper-06-draft.md"
+      "markdown": "papers/06-machine-speed-economics/paper.md",
+      "pdf": "papers/06-machine-speed-economics/paper.pdf",
+      "sha256_pdf": "6cd2596953cf67f71eeac351856cadfff9c12b05a42afe0eb843312bc9412e94",
+      "abstract": "An economy is buyers meeting sellers, prices moving, and obligations settling \u2014 with enough reliability that strangers will trade. This paper describes that economy with the humans removed from the middle of each transaction, and argues that what makes it possible is not faster money but independently witnessed evidence. The paper makes six claims. First, the machine-speed economy requires nothing that does not already exist. Agents carry a purse \u2014 bounded spending authority committable at the point of action \u2014 and a mandate \u2014 preconstrained limits on what may be done, for whom, at what cost. "
     },
     {
       "number": 7,
