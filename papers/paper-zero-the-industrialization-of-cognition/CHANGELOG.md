@@ -24,3 +24,7 @@
 ## 2026-10-13 (2126 holding file)
 
 - Added `2126-the-hundred-year-prediction.md` — a holding file for the hundred-year extrapolation to 2126. The prediction is not yet written; per Chapter 10 it will be written twice (once hopeful, once not), because the fork is real and decided inside the next decade.
+
+## 2026-10-13 (layout)
+
+- Layout: `paper.pdf` / `paper.md` moved into `paper/` (future home of per-paper `paper.json`); executive summary moved flat to `Executive-Summary.md` (plus `Executive-Summary-draft.md` where present). No content changes.

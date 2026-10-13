@@ -7,10 +7,10 @@
 
 ## Files
 
-- `paper.pdf` — the canonical paper
-- `paper.md` — machine-readable text derived from the PDF (the PDF governs in any discrepancy)
+- `paper/paper.pdf` — the canonical paper
+- `paper/paper.md` — machine-readable text derived from the PDF (the PDF governs in any discrepancy)
 - `abstract.md` — abstract / entry point
-- `executive-summary/` — executive summary (author's original) plus `Executive-Summary-draft.md`, an alternative draft for review
+- `Executive-Summary.md` — executive summary (author's original) plus `Executive-Summary-draft.md`, an alternative draft for review
 - `figures/` — figures and diagrams
 
 ## License

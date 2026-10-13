@@ -1,6 +1,9 @@
 #!/usr/bin/env python3
-"""Install the 5 canonical PDFs + derived markdown into the new paper folders,
-restructure per-paper directories, and install Paper 6 draft + Paper 7 brief."""
+"""HISTORICAL — one-time script for the 2026-10-12 restructure. DO NOT RE-RUN:
+it encodes the pre-2026-10-13 layout (flat paper.pdf/paper.md,
+executive-summary/ folder, Paper 7) and deletes files that no longer exist
+in that form. The current layout is paper/paper.pdf + paper/paper.md with a
+flat Executive-Summary.md per paper."""
 import json
 import os
 import shutil

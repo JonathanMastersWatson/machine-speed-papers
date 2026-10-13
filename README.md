@@ -39,13 +39,13 @@ papers/
   paper-zero-the-industrialization-of-cognition/   # Paper Zero — filed last, read last then first (placeholder, full paper in progress)
 ```
 
-Each published paper folder contains:
+Each published paper folder contains (the paper itself lives in `paper/` alongside its future `paper.json`):
 
-- `paper.pdf` — the canonical paper (this is the version of record)
-- `paper.md` — machine-readable text derived from the PDF
+- `paper/paper.pdf` — the canonical paper (this is the version of record)
+- `paper/paper.md` — machine-readable text derived from the PDF
 - `abstract.md` — abstract / entry point
 - `figures/` — figures and diagrams (where present)
-- `executive-summary/` — executive summary (where present)
+- `Executive-Summary.md` — executive summary (where present)
 - `outreach/` — launch and announcement material; public history, not part of the paper
 - `CHANGELOG.md` — version history
 

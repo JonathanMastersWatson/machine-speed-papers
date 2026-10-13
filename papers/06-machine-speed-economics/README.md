@@ -17,10 +17,10 @@ The V0.2 PDF refers to "Paper 7 — The Metered Mind" (the broader labour questi
 
 ## Files
 
-- `paper.pdf` — the canonical paper (this is the version of record)
-- `paper.md` — machine-readable text derived from the PDF (the PDF governs in any discrepancy)
+- `paper/paper.pdf` — the canonical paper (this is the version of record)
+- `paper/paper.md` — machine-readable text derived from the PDF (the PDF governs in any discrepancy)
 - `abstract.md` — abstract
-- `executive-summary/Executive-Summary.md` — draft executive summary (for author review)
+- `Executive-Summary.md` — draft executive summary (for author review)
 
 ## License
 
