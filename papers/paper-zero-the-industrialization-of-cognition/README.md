@@ -31,6 +31,7 @@ The V0.1 PDF says "Papers 6 and 7 — Machine-Speed Economics and The Metered Mi
 - `executive-summary/Executive-Summary.md` — executive summary (approved 2026-10-13; covers the V0.1 placeholder)
 - `brief/brief.md` — working outline brief (former Paper 7 brief; working material, not manuscript text)
 - `brief/Executive-Summary-brief-draft.md` — provisional summary from that brief (working material)
+- `2126-the-hundred-year-prediction.md` — holding file for the hundred-year extrapolation to 2126 (not yet written; will be written twice — once hopeful, once not)
 
 ## License
 

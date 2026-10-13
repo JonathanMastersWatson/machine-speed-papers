@@ -20,3 +20,7 @@
 ## 2026-10-13 (executive summary approved)
 
 - Executive summary revised and approved: reframed around the paper's core claim — a world completely transformed, not the same firms/jobs/markets running faster — with the transformation placed alongside contract law for the wool merchants, Magna Carta, and the double-entry ledger. Covers the V0.1 placeholder; Paper Zero is a work in progress and the summary will be revised with the full manuscript.
+
+## 2026-10-13 (2126 holding file)
+
+- Added `2126-the-hundred-year-prediction.md` — a holding file for the hundred-year extrapolation to 2126. The prediction is not yet written; per Chapter 10 it will be written twice (once hopeful, once not), because the fork is real and decided inside the next decade.
