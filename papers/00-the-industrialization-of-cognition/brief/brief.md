@@ -1,4 +1,8 @@
-# PAPER 7 — The Metered Mind *(working title)*
+> **Merged 2026-10-13 — read this first.** This brief was formerly filed as Paper 7, "The Metered Mind". The author has confirmed The Metered Mind and *The Industrialization of Cognition* (Paper Zero) are the same paper. This brief is now working material for Paper Zero's full manuscript — the individual / metered-judgment part. Internal references to "Paper 7" and to a "handoff to Paper Zero" are stale and preserved as written. This is working material, not manuscript text: it contains WP-A and 512/CVS references in research notes that must not carry into the final manuscript.
+>
+> ---
+
+# PAPER 7 — The Metered Mind *(working title — now Paper Zero working material)*
 
 **Unit of analysis: the worker and the market.**
 

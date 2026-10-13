@@ -11,6 +11,10 @@ Unit of analysis: the firm and the transaction. What the machine-speed economy l
 
 Draft (V0.2, 53 pages). Still 0.x — the manuscript is advancing but not final.
 
+## Known erratum in V0.2
+
+The V0.2 PDF refers to "Paper 7 — The Metered Mind" (the broader labour question "is Paper 7's subject", and the closing "Paper 7 — The Metered Mind — takes up…"). Under the corrected seven-paper count (2026-10-13), The Metered Mind is Paper Zero, not a separate Paper 7; that subject belongs to Paper Zero's full manuscript. To be corrected in the next PDF revision. The PDF remains the version of record; this note does not amend it.
+
 ## Files
 
 - `paper.pdf` — the canonical paper (this is the version of record)

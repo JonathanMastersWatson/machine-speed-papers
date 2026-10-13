@@ -21,9 +21,8 @@ The central question:
 | 4 | [Upstream](papers/04-upstream/) — *Where Human-in-the-Loop Goes at Machine Speed* (V1.1) | Published |
 | 5 | [The Execution Surface](papers/05-the-execution-surface/) — *Why Distributed Compute Cannot Be Shared* (V1.1) | Published |
 | 6 | [Machine-Speed Economics](papers/06-machine-speed-economics/) — *How Evidence Becomes the Price Signal* (V0.2) | Draft |
-| 7 | [The Metered Mind](papers/07-the-metered-mind/) — *Micropayments and licensing economics of machine-speed judgment* | Outline brief |
 
-The arc: governance doesn't disappear at machine speed — it redistributes. Interpretation moves upstream, enforcement compresses to a minimal kernel at the execution boundary, and accountability moves downstream into independently witnessed evidence. Paper Zero opens the frame; Papers 1–5 establish the components; Paper 6 assembles the running machine; Paper 7 follows the money to the individual.
+The arc: governance doesn't disappear at machine speed — it redistributes. Interpretation moves upstream, enforcement compresses to a minimal kernel at the execution boundary, and accountability moves downstream into independently witnessed evidence. Paper Zero opens the frame; Papers 1–5 establish the components; Paper 6 assembles the running machine; Paper Zero closes by following the money to the individual.
 
 ## Repository layout
 
@@ -36,7 +35,6 @@ papers/
   04-upstream/
   05-the-execution-surface/
   06-machine-speed-economics/      # draft in progress
-  07-the-metered-mind/             # outline brief
 ```
 
 Each published paper folder contains:

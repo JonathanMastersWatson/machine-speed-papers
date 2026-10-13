@@ -12,3 +12,7 @@
 ## 2026-10-12
 
 - Draft executive summary added under `executive-summary/` (prepared from the paper text for author review; not yet approved).
+
+## 2026-10-13
+
+- Known erratum recorded: the V0.2 PDF refers to "Paper 7 — The Metered Mind". The Metered Mind is Paper Zero, not a separate paper. To be corrected in the next PDF revision; no PDF change in this commit.

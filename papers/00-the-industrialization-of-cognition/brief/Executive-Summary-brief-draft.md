@@ -1,8 +1,10 @@
-# Executive Summary — The Metered Mind
+# Executive Summary — The Metered Mind (brief draft, now Paper Zero working material)
 
-*(working title)*
+*(working title — formerly filed as Paper 7)*
 
-**Jonathan M. Watson** — The Machine Speed Papers, No. 7 — Outline brief — 2026-10
+**Jonathan M. Watson** — The Machine Speed Papers — Outline brief — 2026-10
+
+> Merged 2026-10-13: The Metered Mind and *The Industrialization of Cognition* (Paper Zero) are the same paper. This summary was prepared from the outline brief, is provisional, and is preserved here as working material for Paper Zero's full manuscript. References to "Paper 7" / "No. 7" below are stale and preserved as written.
 
 *Draft — prepared from the working outline brief for author review and approval. No manuscript exists yet; this summary is provisional and will be replaced when the paper is written. The brief governs in case of any discrepancy.*
 
