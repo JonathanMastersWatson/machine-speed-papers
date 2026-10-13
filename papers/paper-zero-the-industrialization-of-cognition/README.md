@@ -9,6 +9,8 @@ Paper Zero. The opening frame of the series: what the industrialization of cogni
 
 Paper Zero is the seventh paper in the series (six core papers, Papers 1–6, plus Paper Zero). "The Metered Mind" was its working title for the individual / metered-judgment part of the argument; it is not a separate paper.
 
+Filed after Paper 6 so the folder order matches the reading loop: Papers 1–6 first, then Paper Zero last — then back to Paper 1. Paper Zero is numbered zero because it is meant to be read last, and then first.
+
 ## Status
 
 Executive-summary placeholder (12 pages). The full paper is in progress; this file will be replaced by the complete manuscript when it lands.

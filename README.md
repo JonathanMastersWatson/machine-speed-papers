@@ -12,29 +12,31 @@ The central question:
 
 ## The series
 
+Reading order: Papers 1–6 first, then Paper Zero last — and then back to Paper 1. Paper Zero is numbered zero because it is meant to be read last, and then first. The table and the folder order below follow that loop.
+
 | No. | Paper | Status |
 |-----|-------|--------|
-| 0 | [The Industrialization of Cognition](papers/00-the-industrialization-of-cognition/) — *Transformed* (V0.1) | Executive-summary placeholder |
 | 1 | [Execution-Boundary Governance](papers/01-execution-boundary-governance/) — *A Runtime Control Model for Autonomous Systems* (V2.1) | Published |
 | 2 | [Constitutional Compression](papers/02-constitutional-compression/) — *The Emergence of Minimal Governance at Machine Speed* (V1.1) | Published |
 | 3 | [Evidence Systems](papers/03-evidence-systems/) — *Why Independent Witnesses Emerge at Machine Speed* (V1.1) | Published |
 | 4 | [Upstream](papers/04-upstream/) — *Where Human-in-the-Loop Goes at Machine Speed* (V1.1) | Published |
 | 5 | [The Execution Surface](papers/05-the-execution-surface/) — *Why Distributed Compute Cannot Be Shared* (V1.1) | Published |
 | 6 | [Machine-Speed Economics](papers/06-machine-speed-economics/) — *How Evidence Becomes the Price Signal* (V0.2) | Draft |
+| 0 | [The Industrialization of Cognition](papers/paper-zero-the-industrialization-of-cognition/) — *Transformed* (V0.1) | Executive-summary placeholder |
 
-The arc: governance doesn't disappear at machine speed — it redistributes. Interpretation moves upstream, enforcement compresses to a minimal kernel at the execution boundary, and accountability moves downstream into independently witnessed evidence. Paper Zero opens the frame; Papers 1–5 establish the components; Paper 6 assembles the running machine; Paper Zero closes by following the money to the individual.
+The arc: governance doesn't disappear at machine speed — it redistributes. Interpretation moves upstream, enforcement compresses to a minimal kernel at the execution boundary, and accountability moves downstream into independently witnessed evidence. Papers 1–5 establish the components; Paper 6 assembles the running machine; Paper Zero closes by following the money to the individual — then the reader starts over at Paper 1.
 
 ## Repository layout
 
 ```
 papers/
-  00-the-industrialization-of-cognition/   # placeholder (full paper in progress)
   01-execution-boundary-governance/
   02-constitutional-compression/
   03-evidence-systems/
   04-upstream/
   05-the-execution-surface/
   06-machine-speed-economics/      # draft in progress
+  paper-zero-the-industrialization-of-cognition/   # Paper Zero — filed last, read last then first (placeholder, full paper in progress)
 ```
 
 Each published paper folder contains:
